@@ -1,0 +1,15 @@
+{
+    "name": "surya_dendy/dictionary",
+    "description": "dictionary to Sunda and Jawa",
+    "type": "library",
+    "license": "MIT",
+    "autoload":{
+        "psr-4": {
+            "Dendy\\Dictionary\\":"/"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    },
+    "require": {}
+}
